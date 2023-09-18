@@ -1,4 +1,5 @@
 # Mini_Project_Word_Counter_Using_Python
+Project link:https://deevanshi-04.github.io/Mini_Project_Word_Counter_Using_Python/
 <h3>Introduction to Word Counter Project using Python</h3>
 
 <p>The Word Counter Project using Python is a practical and powerful application designed to analyze and count the occurrences of words in a given text document. This project leverages the capabilities of Python programming to efficiently process textual data, making it an essential tool for various applications, including data analysis, content processing, and natural language processing.</p>
